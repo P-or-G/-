@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1257</width>
+    <height>875</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QWidget" name="verticalLayoutWidget_2">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>799</width>
+     <height>799</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_3">
+    <property name="spacing">
+     <number>0</number>
+    </property>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_4">
+      <property name="spacing">
+       <number>0</number>
+      </property>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_10"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_11"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_15"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_16"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_14"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_13"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_12"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_9"/>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_16">
+      <property name="spacing">
+       <number>0</number>
+      </property>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_89"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_90"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_91"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_92"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_93"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_94"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_95"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_96"/>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_17">
+      <property name="spacing">
+       <number>0</number>
+      </property>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_97"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_98"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_99"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_100"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_101"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_102"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_103"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_104"/>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_18">
+      <property name="spacing">
+       <number>0</number>
+      </property>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_105"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_106"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_107"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_108"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_109"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_110"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_111"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_112"/>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_19">
+      <property name="spacing">
+       <number>0</number>
+      </property>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_113"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_114"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_115"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_116"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_117"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_118"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_119"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_120"/>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_20">
+      <property name="spacing">
+       <number>0</number>
+      </property>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_121"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_122"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_123"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_124"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_125"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_126"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_127"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_128"/>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_21">
+      <property name="spacing">
+       <number>0</number>
+      </property>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_129"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_130"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_131"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_132"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_133"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_134"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_135"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_136"/>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_3">
+      <property name="spacing">
+       <number>0</number>
+      </property>
+      <property name="sizeConstraint">
+       <enum>QLayout::SetDefaultConstraint</enum>
+      </property>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_8"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_7"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_6"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_5"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_4"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_3"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView_2"/>
+      </item>
+      <item>
+       <widget class="QGraphicsView" name="graphicsView"/>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
