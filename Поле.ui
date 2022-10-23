@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>1280</width>
-    <height>881</height>
+    <height>895</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -18,8 +18,8 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>799</width>
-     <height>799</height>
+     <width>791</width>
+     <height>801</height>
     </rect>
    </property>
    <layout class="QVBoxLayout" name="verticalLayout_3">
@@ -349,7 +349,22 @@
      <height>851</height>
     </rect>
    </property>
-   <layout class="QHBoxLayout" name="horizontalLayout"/>
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <widget class="QLabel" name="label_3">
+      <property name="text">
+       <string>Белые</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_4">
+      <property name="text">
+       <string>Чёрные</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
   </widget>
  </widget>
  <resources/>
