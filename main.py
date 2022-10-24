@@ -10,16 +10,23 @@ class Main(QMainWindow):
         super().__init__()
         loadUi('Главное окно.ui', self)
         self.pushButton_2.clicked.connect(self.pole)
-
-
+        self.pushButton.clicked.connect(self.ex)
+        self.pushButton_3.clicked.connect(self.table)
 
     def pole(self):
-        global new_window
-        new_window = uic.loadUi("Поле.ui")
-        new_window.setWindowTitle("New form")
-        new_window.show()
+        global board
+        board = uic.loadUi("Поле.ui")
+        board.setWindowTitle("Board")
+        board.show()
 
+    def ex(self):
+        self.close()
 
+    def table(self):
+        global board
+        board = uic.loadUi("Партии.ui")
+        board.setWindowTitle("History")
+        board.show()
 
 def except_hook(cls, exception, traceback):
     sys.__excepthook__(cls, exception, traceback)
